@@ -44,3 +44,27 @@ Before submitting a pull request:
 - run relevant tests;
 - remove debugging code;
 - review your own changes.
+
+## Commit Messages
+
+Use clear and consistent commit messages following this format:
+
+`type: short description`
+
+Examples:
+
+- `feat: add event filtering`
+- `fix: correct margin calculation`
+- `docs: update setup instructions`
+- `refactor: simplify validation logic`
+- `test: add pricing unit tests`
+- `chore: update dependencies`
+
+Use the following commit types:
+
+- `feat` — new feature
+- `fix` — bug fix
+- `docs` — documentation changes
+- `refactor` — code restructuring without changing behaviour
+- `test` — adding or updating tests
+- `chore` — maintenance, configuration, or dependency changes
