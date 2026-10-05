@@ -1,9 +1,9 @@
-
 ---
 name: Bug report
 about: Report a reproducible problem
 title: "[Bug] "
 labels: bug
+assignees: ""
 ---
 
 ## Description
@@ -27,7 +27,8 @@ What happened instead?
 ## Environment
 
 - Branch:
-- Environment: Dev/Main
+- Environment:
+- Browser/OS if relevant:
 
 ## Additional Information
 
